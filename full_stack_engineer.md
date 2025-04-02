@@ -1,4 +1,4 @@
-# NowPro / Full-stack Software Engineer (Nível Médio)
+# NowPro / Full-stack Software Engineer (mid-level)
 
 ## O que buscamos / Requisitos:
 * Experiência de pelo menos 3 anos em desenvolvimento de aplicações full-stack, com ênfase em backend.
