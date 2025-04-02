@@ -35,10 +35,8 @@
 * **Modalidade:** Presencial (região do Parque Ibirapuera, São Paulo).
 * **Regime:** PJ.
 
----
-
-### Diga oi pra gente :)
-📧 rondy@nowpro.tec.br
+## Diga oi pra gente :)
+* 📧 rondy@nowpro.tec.br
 
 ---
 
