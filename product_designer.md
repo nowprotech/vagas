@@ -14,8 +14,7 @@ Somos uma legaltech early-stage cujo time de produto/tech é composto hoje apena
 * Experiência em sistemas jurídicos, plataformas internas ou internal tools;
 * Experiência em design de produtos B2B/ferramentas internas, com foco em usuários operacionais (não apenas cliente final);
 * Inglês avançado (leitura e escrita);
-* Passagem por startups early-stage ou fintechs/legaltechs;
-* Familiaridade com RPAs, automação de processos ou produtos que lidam com dados extraídos de sistemas de terceiros (ex.: tribunais).
+* Passagem por startups early-stage ou fintechs/legaltechs.
 
 ## Responsabilidades / Como será seu dia a dia:
 * Ser o pilar de UX nas principais jornadas das nossas plataformas internas, garantindo uma experiência desejada e utilizável para os times jurídico e de engenharia de produção.
