@@ -6,11 +6,11 @@ Não é uma posição focada apenas em desenhar telas, nem uma vaga de PO com Fi
 
 ## O que buscamos / Requisitos:
 * Pelo menos 5 anos de experiência em design de produto (UX/UI).
+* Experiência comprovada em conduzir a descoberta de requisitos com stakeholders não-técnicos — entrevistar, mapear processo, modelar regra de negócio e transformar demanda ambígua em escopo que a engenharia consegue estimar.
 * Conhecimento em metodologias, técnicas e ferramentas de UX, UI e desenvolvimento de produtos:
    * Criação de wireframes, diagramas de fluxo e histórias de produto;
    * Product discovery e product delivery, personas, jobs to be done;
    * Proficiência em ferramentas de UI design (Figma, principalmente).
-* Afinidade com gestão de projetos e coleta/estruturação de requisitos junto a usuários, como quem já atuou (ou dividiu responsabilidades) como Product Owner.
 
 ### Diferenciais (não obrigatórios):
 * Experiência em sistemas jurídicos, plataformas internas ou internal tools;
