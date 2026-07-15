@@ -1,6 +1,8 @@
 # NowPro / Product Designer (pleno)
 
-Somos uma legaltech early-stage cujo time de produto/tech é composto hoje apenas por engenheiros de software. Buscamos uma pessoa de produto e design para fortalecer e equilibrar nossa equipe. Não temos um Product Owner dedicado: essa responsabilidade é hoje compartilhada com o tech lead, então além do design, você também vai atuar na gestão de projetos e na coleta/estruturação de requisitos junto aos usuários. Oferecemos um ambiente ágil, com desafios ambíguos, centrado na descoberta de produto e na construção de uma cultura sólida. Se você fica entusiasmado(a) nesse tipo de ambiente, esta é a oportunidade ideal.
+Somos uma legaltech early-stage cujo time de produto/tech é composto hoje apenas por engenheiros de software. Buscamos uma pessoa de Product Design para transformar processos jurídicos e operacionais complexos em software interno claro, eficiente e utilizável. A posição combina design de produto end-to-end — discovery, pesquisa, fluxos, UX/UI e prototipação — com forte atuação em análise de negócio e estruturação de requisitos. A pessoa também coparticipará, com o tech lead, da priorização e do acompanhamento das entregas, sem exercer uma função de Product Owner em tempo integral.
+
+Não é uma posição focada apenas em desenhar telas, nem uma vaga de PO com Figma: procuramos alguém capaz de entender profundamente o problema, estruturar a solução e materializá-la em uma experiência de produto de alta qualidade. Oferecemos um ambiente ágil, com desafios ambíguos, centrado na descoberta de produto e na construção de uma cultura sólida. Se você fica entusiasmado(a) nesse tipo de ambiente, esta é a oportunidade ideal.
 
 ## O que buscamos / Requisitos:
 * Pelo menos 3 anos de experiência em design de produto (UX/UI).
